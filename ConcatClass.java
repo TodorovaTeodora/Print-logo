@@ -1,7 +1,7 @@
 public class Concatenation {
    private int inputNumber;
-   private String symbol;
-   private String space;
+   private final String symbol;
+   private final String space;
 
     public Concatenation(int inputNumber, String symbol, String space) {
         this.inputNumber = inputNumber;
