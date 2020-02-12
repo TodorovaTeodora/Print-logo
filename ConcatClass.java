@@ -3,7 +3,7 @@ public class Logo {
    private final String symbol;
    private final String space;
 
-    public Concatenation(int inputNumber, String symbol, String space) {
+    public Logo(int inputNumber, String symbol, String space) {
         this.inputNumber = inputNumber;
         this.symbol = symbol;
         this.space = space;
