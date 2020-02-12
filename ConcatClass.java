@@ -1,4 +1,4 @@
-public class Concatenation {
+public class Logo {
    private int inputNumber;
    private final String symbol;
    private final String space;
