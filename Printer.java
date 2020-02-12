@@ -12,7 +12,7 @@ public class PrintLogo {
 
         if (inputNumber > 2 && inputNumber % 2 != 0) {
             // create object
-            Concatenation printer = new Concatenation(inputNumber, symbol, space);
+            Logo printer = new Logo(inputNumber, symbol, space);
             // print
             printer.print(inputNumber, symbol, space);
 
